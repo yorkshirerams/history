@@ -1,0 +1,22 @@
+{
+  "name": "rams-history",
+  "version": "1.0.0",
+  "description": "A history of the Yorkshire Rams American Football team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorkshirerams/history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yorkshirerams/history/issues"
+  },
+  "homepage": "https://github.com/yorkshirerams/history#readme",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}
