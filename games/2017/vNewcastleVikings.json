@@ -1,4 +1,139 @@
 {
-  "homeTeam": "Yorkshire Rams",
-  "awayTeam": "Newcastle Vikings"
+  "kickoff": "2017-04-16T14:30:00Z",
+  "home": {
+    "name": "Yorkshire Rams",
+    "shortName": "Rams",
+    "abbreviation": "RAM",
+    "score": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "fourth": 0,
+      "total": 0
+    },
+    "stats": {
+      "passing": {
+        
+      },
+      "rushing": {
+        
+      },
+      "receiving": {
+        
+      },
+      "fumbles": {
+        
+      },
+      "kicking": {
+        
+      },
+      "punting": {
+        
+      },
+      "kickReturn": {
+        
+      },
+      "puntReturn": {
+        
+      },
+      "defense": {
+        
+      },
+      "team": {
+        "firstDowns": 0,
+        "totalYards": 0,
+        "passingYards": 0,
+        "rushingYards": 0,
+        "penalties": 0,
+        "penaltyYards": 0,
+        "turnovers": 0,
+        "punts": 0,
+        "puntYards": 0,
+        "puntAverage": 0,
+        "top": "0:00"
+      }
+    }
+  },
+  "away": {
+    "name": "Newcastle Vikings",
+    "shortName": "Vikings",
+    "abbreviation": "VIK",
+    "score": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "fourth": 0,
+      "total": 0
+    },
+    "stats": {
+      "passing": {
+        
+      },
+      "rushing": {
+        
+      },
+      "receiving": {
+        
+      },
+      "fumbles": {
+        
+      },
+      "kicking": {
+        
+      },
+      "punting": {
+        
+      },
+      "kickReturn": {
+        
+      },
+      "puntReturn": {
+        
+      },
+      "defense": {
+        
+      },
+      "team": {
+        "firstDowns": 0,
+        "totalYards": 0,
+        "passingYards": 0,
+        "rushingYards": 0,
+        "penalties": 0,
+        "penaltyYards": 0,
+        "turnovers": 0,
+        "punts": 0,
+        "puntYards": 0,
+        "puntAverage": 0,
+        "top": "0:00"
+      }
+    }
+  },
+  "drives": [
+    {
+      "plays": [
+        {
+          "down": 0,
+          "quarter": 1,
+          "yardLine": -20,
+          "yardsToGo": 0,
+          "yardsGained": 0,
+          "playType": "Kickoff"
+        }
+      ],
+      "result": "Punt",
+      "firstDowns": 0,
+      "yardsGained": 0,
+      "timeOfPossession": "0:00",
+      "start": {
+        "quarter": 1,
+        "time": "15:00",
+        "yardLine": -20
+      }
+    }
+  ],
+  "location": "John Charles Centre for Sport",
+  "city": "Leeds",
+  "competition": "NFC 1 North",
+  "round": "",
+  "fieldLength": 100
 }
